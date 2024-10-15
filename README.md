@@ -179,4 +179,3 @@ Finally, push the new tags and changes:
 ```bash
 git push --follow-tags
 ```
-```
